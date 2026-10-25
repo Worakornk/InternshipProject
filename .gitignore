@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+octave-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Model checkpoints written by the Chapter 5 scripts
+python/ch5-deep-learning/SEN_Results/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
